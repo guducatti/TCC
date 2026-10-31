@@ -1,0 +1,16 @@
+# Ambiente Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Material de trabalho não publicado
+Notebooks antigos/
+Video/
+Refs/
+Projeto de TCC.pdf
+Relatorio set-out TCC.pdf
+trigo_per_mun.xlsx
+
+# Arquivos temporários do Office
+~$*
+matfin_aplicacoes.ipynb
